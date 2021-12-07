@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab04-Switches Kashitsin</string>
+    <string name="apple">Яблоко</string>
+    <string name="strawberry">Клубника</string>
+    <string name="bluebery">Голубика</string>
+    <string name="potatoes">Картофель</string>
+    <string name="but_calc">Рассчитать</string>
+    <string name="but_save_prices">Сохранить</string>
+    <string name="sw_dialog">Диалоговые окна</string>
+    <string name="author">Кашицын, 393</string>
+</resources>
